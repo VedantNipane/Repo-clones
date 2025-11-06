@@ -1,0 +1,15 @@
+repo_path,number_of_tokens,file_count
+cloned_repos/simplelink-lowpower-f3-sdk,39619476,6565
+cloned_repos/uC-OS3,486425,135
+cloned_repos/CMSIS_6,1986574,470
+cloned_repos/hubris,2273110,1041
+cloned_repos/STM32CubeU5,170411385,15434
+cloned_repos/mcux-sdk-examples,1406890302,277687
+cloned_repos/rt-thread,194640277,23628
+cloned_repos/seL4,1440972,739
+cloned_repos/ArduinoCore-samd,5687765,573
+cloned_repos/connectedhomeip,8728551,2774
+cloned_repos/usbx,6159493,1559
+cloned_repos/Arduino,1307641,530
+cloned_repos/mcuxsdk-manifests,33689,33
+cloned_repos/LiteOS,32931055,3933
