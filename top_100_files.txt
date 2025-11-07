@@ -1,0 +1,100 @@
+858M	./AliOS-Things/.git/objects/pack/pack-ae03a733e4385f010347cd2699aef4fc8c5a1c02.pack
+418M	./simplelink-lowpower-f2-sdk/.git/objects/pack/pack-b6019e97fd9184a103f18aacc4f64818f30771cb.pack
+411M	./STM32CubeH7/.git/objects/pack/pack-ad8b9e545a063726d5e0d7f2f515a763ea6bf328.pack
+393M	./rt-thread/.git/objects/pack/pack-31c24521d00bd7792ff61bfc8845a5b26682d580.pack
+387M	./STM32CubeF7/.git/objects/pack/pack-5d8f488c6ecd17ef97cbf0122b058fdb78c9b645.pack
+268M	./linux/.git/objects/pack/pack-261cf78056b46b0e4b882b1c8b09cbad9c757f12.pack
+236M	./STM32CubeL4/.git/objects/pack/pack-bdbd9d1e7bf9988405adb4cff499a5cb3807c82b.pack
+163M	./simplelink-lowpower-f3-sdk/.git/objects/pack/pack-f98597ecc22d2debf31298fa84cae3bc9cb81df2.pack
+133M	./STM32CubeU5/.git/objects/pack/pack-eb12961cda477995352b54ea197c95448919e767.pack
+124M	./mcux-sdk-examples/.git/objects/pack/pack-c12d42ab750c6916db0960e19d1bfb15406aaf09.pack
+107M	./zephyr/.git/objects/pack/pack-d64c6084ee1ffe0c0d976e1aafee6ea5eb0d3f38.pack
+102M	./sdk-zephyr/.git/objects/pack/pack-38cfd5f55466dad90e8ca44c1dcdcb4894d07e51.pack
+100M	./nuttx/.git/objects/pack/pack-fd5dc96b7b3d19e6c7d1c2fcc2f772acefc5c1af.pack
+99M	./STM32CubeH7/Projects/STM32H7B3I-EVAL/Demonstrations/Binary/STM32Cube_Demo-STM32H7B3I-EVAL-V1.1.0.hex
+96M	./cc32xx_open_sdk/.git/objects/pack/pack-97c4d11fab948a64f76cc9ddae9909eb4e02a0d5.pack
+91M	./STM32CubeG4/.git/objects/pack/pack-13f59dfb629d418130f93c9655d20b7ca14eaa3d.pack
+89M	./STM32CubeF4/.git/objects/pack/pack-a1c272e416548b6ff8fd344b2ef0a069aabf7db4.pack
+85M	./LiteOS/.git/objects/pack/pack-dc6a91974515886232691e6ceb5a13208a691d59.pack
+84M	./STM32CubeG0/.git/objects/pack/pack-a705db710f49619c4f1553debaea2156e12210f2.pack
+80M	./mcux-sdk/.git/objects/pack/pack-721a7ef5381ad58bf1cf460f88e0971401362202.pack
+79M	./mbed-os/.git/objects/pack/pack-9493787d3b6a69774a5d03773e64cf11fcbbc55b.pack
+72M	./STM32CubeH7/Projects/STM32H735G-DK/Demonstrations/Binary/STM32Cube_Demo-STM32H735G-DK-V1.1.0.hex
+70M	./esp-iot-solution/.git/objects/pack/pack-67f128e117fd104b3334d093270172169e91581d.pack
+70M	./amazon-freertos/.git/objects/pack/pack-816bcbed7c2ae6a0c15d80ef2d57531622f71de2.pack
+67M	./STM32CubeL5/.git/objects/pack/pack-9292080b0990e65d5131419961884302a660ff4e.pack
+63M	./lvgl/.git/objects/pack/pack-6ab03bb0fba80406f0894832034fae346b60ef86.pack
+61M	./mcux-sdk-examples/.git/index
+59M	./simplelink-lowpower-f2-sdk/tools/ble5stack/rtls_agent/rtls_ui/websocket_proxy
+59M	./esp-idf/.git/objects/pack/pack-8e16b94857cca17e978f8d23f235817d35085c5c.pack
+58M	./STM32CubeWB/.git/objects/pack/pack-3ed62601fb6d69a491a9885dd548b433dd476404.pack
+57M	./gecko_sdk/.git/objects/pack/pack-7c38a4e92171205660262521087a883b0994a7a1.pack
+52M	./STM32CubeU5/Utilities/PC_Software/IDEs_Patches/MDK-ARM/Keil.STM32U5xx_DFP.2.2.4.zip
+50M	./STM32CubeWL/.git/objects/pack/pack-2dfb81093ff4462b41b6915e602bfa32e8412e0e.pack
+48M	./STM32CubeL4/Utilities/Media/Audio/Electronica/ScifiTwo.wav
+48M	./STM32CubeL4/Utilities/Media/Audio/Electronica/Scifi.wav
+48M	./STM32CubeF7/Utilities/Media/TouchGFX_STM32F769/music/World/Relaxing.wav
+46M	./ecos/.git/objects/pack/pack-9c4abf310b19eba1bdc04bd6dc2295e018166cad.pack
+44M	./AliOS-Things/hardware/chip/haas1000/drivers/libmcuhaas1000_a7.a
+44M	./AliOS-Things/hardware/chip/haas1000/drivers/libmcuhaas1000.a
+39M	./spsdk/.git/objects/pack/pack-1b6a66c700db85b372e16f58f6f01f6a12acbce4.pack
+39M	./RIOT/.git/objects/pack/pack-0018a9d1b56cc38578d846d568dccd895d133be6.pack
+37M	./sdk-nrf/.git/objects/pack/pack-2d43929cd9d861166cbb0b6eb2944e8ff1a5ec29.pack
+35M	./STM32CubeG4/Projects/STM32G474E-EVAL/Demonstrations/Binary/SD_card/USER/art_of_gard.wav
+35M	./STM32CubeG0/Projects/STM32G0C1E-EV/Demonstrations/Binary/SD_card/USER/art_of_gard.wav
+35M	./STM32CubeG0/Projects/STM32G081B-EVAL/Demonstrations/Binary/SD_card/USER/art_of_gard.wav
+34M	./FreeRTOS/.git/objects/pack/pack-e0c9ff647e8fc30e74337040e8ebd1b23f1c62c7.pack
+32M	./netxduo/.git/objects/pack/pack-cfa7c20d2ab2c3a48346c8ca7e3cb88e8b243fe2.pack
+31M	./STM32CubeH7/Utilities/Media/Video/video1_640_480.avi
+31M	./STM32CubeF1/.git/objects/pack/pack-3c44e27caeaafe2704539d182a87ae9df8f808db.pack
+31M	./STM32CubeF0/.git/objects/pack/pack-4c5338971c98ebaa31e1f51cb26c4c4dc34c09f2.pack
+31M	./AliOS-Things/hardware/chip/haas1000/drivers/libhaas1000_nolwip.a
+30M	./simplelink-lowpower-f2-sdk/.metadata/.tirex/.dependencies/zstackerrors.log
+30M	./STM32CubeL0/.git/objects/pack/pack-4a2facd5b8f21436a057ef1b31ad3df21edd8278.pack
+29M	./STM32CubeL4/Utilities/Media/Audio/Rock/Little Idea.wav
+29M	./STM32CubeL4/Utilities/Media/Audio/NoCover/dublin_forever.wav
+29M	./STM32CubeL4/Utilities/Media/Audio/Dublin Forever.wav
+29M	./STM32CubeH7/Utilities/Media/Video/BehindTheDemo.avi
+29M	./STM32CubeF7/Utilities/PC_Software/patch/MDK-ARM/STMicroelectronics.STM32F7xx_DFP.1.0.3.pack
+29M	./STM32CubeF7/Utilities/Media/TouchGFX_STM32F769/music/Rock/Little Idea.wav
+29M	./STM32CubeF7/Utilities/Media/Audio/dublin forever 44KHz.wav
+28M	./STM32CubeU5/Projects/B-U585I-IOT02A/Applications/NetXDuo/Nx_WebServer/Web_Content/web_demo.bin
+27M	./mcux-sdk/devices/MIMX9596/MIMX9596_cm33.h
+27M	./STM32CubeL5/Middlewares/Third_Party/mcuboot/scripts/dist/imgtool/libopenblas.JKAMQ5EVHIVCPXP2XZJB2RQPIN47S32M.gfortran-win32.dll
+27M	./STM32CubeL4/Utilities/Media/Audio/Jazz/The Jazz Piano.wav
+27M	./STM32CubeF7/Utilities/Media/TouchGFX_STM32F769/music/Jazz/The Jazz Piano.wav
+27M	./STM32CubeF7/Utilities/Media/TouchGFX_STM32F769/music/Folk/Acoustic Breeze.wav
+26M	./mcux-sdk/devices/MIMX9596/MIMX9596_cm7.h
+26M	./STM32CubeL4/Utilities/Media/Audio/NoCover/love_letters.wav
+26M	./STM32CubeL4/Utilities/Media/Audio/Love Letters.wav
+26M	./STM32CubeF7/Utilities/Media/Audio/love letters 32KHz.wav
+26M	./AliOS-Things/hardware/chip/haas1000/release/write_flash_gui/dld_main/icudt58.dll
+25M	./arduino-esp32/.git/objects/pack/pack-aae677a86fe075f91528b227f8e18fd6fd40bfb5.pack
+25M	./STM32CubeH7/Utilities/Media/Video/video3_640_480.avi
+25M	./STM32CubeG4/Projects/STM32G474E-EVAL/Demonstrations/Binary/SD_card/USER/riding.wav
+25M	./STM32CubeG0/Projects/STM32G0C1E-EV/Demonstrations/Binary/SD_card/USER/riding.wav
+25M	./STM32CubeG0/Projects/STM32G081B-EVAL/Demonstrations/Binary/SD_card/USER/riding.wav
+25M	./STM32CubeF7/Utilities/Media/TouchGFX_STM32F769/music/Folk/Ukulele.wav
+24M	./simplelink-lowpower-f2-sdk/tools/sidewalk/web_app/bin/deploy_stack
+24M	./mcux-sdk/devices/MIMX9596/MIMX9596_ca55.h
+24M	./STM32CubeL4/Utilities/Media/Audio/gardenss 22KHz.wav
+24M	./STM32CubeL4/Utilities/Media/Audio/NoCover/gardenss.wav
+24M	./STM32CubeL4/Utilities/Media/Audio/NoCover/Audio Sample.wav
+24M	./STM32CubeH7/Utilities/Media/Video/video0_640_480.avi
+24M	./STM32CubeF7/Utilities/Media/Audio/gardenss 22KHz.wav
+24M	./STM32CubeF7/Utilities/Media/Audio/audio_sample.wav
+24M	./STM32CubeF4/Utilities/Media/Audio/audio_sample.wav
+23M	./simplelink-lowpower-f2-sdk/tools/sidewalk/web_app/bin/delete_stack
+23M	./simplelink-lowpower-f2-sdk/tools/sidewalk/generate_prototype/bin/generate_prototype
+23M	./simplelink-lowpower-f2-sdk/tools/ble5stack/rtls_agent/rtls_ui/rtls_ui
+23M	./linux/drivers/gpu/drm/amd/include/asic_reg/dcn/dcn_3_2_0_sh_mask.h
+23M	./Arduino/.git/objects/pack/pack-de739fd7033d6c7b2207a76ccf29850fe4c8075f.pack
+22M	./rtems/.git/objects/pack/pack-5a4283e1431d10b87cfa7dc432a408c64b2bd978.pack
+22M	./amazon-freertos/vendors/mediatek/sdk/prebuilt/keil/libminisupp_CM4_Keil.lib
+22M	./STM32CubeL4/Utilities/Media/Audio/Electronica/Dubstep.wav
+21M	./STM32CubeH7/Utilities/Media/Video/video1_800_480.avi
+21M	./ChibiOS/.git/objects/pack/pack-f823a2f2bb033f8f6837accc4a9ffdaeccc07fba.pack
+20M	./simplelink-lowpower-f2-sdk/source/ti/ti_wisunfan/lib/iar/m4f/wisun_br_mbed_ns_tls_lib_cc13x2x7_tirtos7.a
+20M	./simplelink-lowpower-f2-sdk/source/ti/ti_wisunfan/lib/iar/m4f/wisun_br_mbed_ns_tls_lib_cc13x2x7_freertos.a
+20M	./simplelink-lowpower-f2-sdk/source/ti/ti_wisunfan/lib/iar/m4f/wisun_br_mbed_ns_tls_lib_cc13x2_tirtos7.a
+20M	./simplelink-lowpower-f2-sdk/source/ti/ti_wisunfan/lib/iar/m33f/wisun_br_mbed_ns_tls_lib_cc13x4_tirtos7.a
