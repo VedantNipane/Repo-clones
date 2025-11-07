@@ -1,0 +1,309 @@
+2025-11-06 17:39:55,592 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-06 17:40:20,999 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-06 17:42:24,910 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-06 17:42:28,890 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 1 repos...
+2025-11-06 17:42:28,891 [INFO] Processing repo: cloned_repos/simplelink-lowpower-f3-sdk
+2025-11-06 17:42:29,127 [INFO] Found 6565 valid files.
+2025-11-06 17:44:28,230 [INFO] Repo processed: cloned_repos/simplelink-lowpower-f3-sdk | Tokens: 39,619,476
+2025-11-06 17:44:28,233 [INFO] All done.
+2025-11-06 17:45:26,223 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-06 17:45:28,434 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 10 repos...
+2025-11-06 17:45:28,438 [INFO] Processing repo: cloned_repos/uC-OS3
+2025-11-06 17:45:28,506 [INFO] Found 135 valid files.
+2025-11-06 17:45:30,289 [INFO] Repo processed: cloned_repos/uC-OS3 | Tokens: 486,425
+2025-11-06 17:45:30,291 [INFO] Processing repo: cloned_repos/CMSIS_6
+2025-11-06 17:45:30,340 [INFO] Found 470 valid files.
+2025-11-06 17:45:36,948 [INFO] Repo processed: cloned_repos/CMSIS_6 | Tokens: 1,986,574
+2025-11-06 17:45:36,951 [INFO] Processing repo: cloned_repos/hubris
+2025-11-06 17:45:37,124 [INFO] Found 1041 valid files.
+2025-11-06 17:45:44,586 [INFO] Repo processed: cloned_repos/hubris | Tokens: 2,273,110
+2025-11-06 17:45:44,588 [INFO] Processing repo: cloned_repos/STM32CubeU5
+2025-11-06 17:45:45,201 [INFO] Found 15434 valid files.
+2025-11-06 17:59:16,183 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-06 17:59:19,678 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 10 repos...
+2025-11-06 17:59:19,693 [INFO] Processing repo: cloned_repos/STM32CubeU5
+2025-11-06 17:59:24,826 [INFO] Found 15434 valid files.
+2025-11-06 18:05:33,769 [INFO] Repo processed: cloned_repos/STM32CubeU5 | Tokens: 170,411,385
+2025-11-06 18:05:33,773 [INFO] Processing repo: cloned_repos/mcux-sdk-examples
+2025-11-06 18:06:38,171 [INFO] Found 277687 valid files.
+2025-11-06 19:00:55,246 [INFO] Repo processed: cloned_repos/mcux-sdk-examples | Tokens: 1,406,890,302
+2025-11-06 19:00:55,338 [INFO] Processing repo: cloned_repos/rt-thread
+2025-11-06 19:01:03,667 [INFO] Found 23628 valid files.
+2025-11-06 19:11:10,224 [INFO] Repo processed: cloned_repos/rt-thread | Tokens: 194,640,277
+2025-11-06 19:11:10,231 [INFO] Processing repo: cloned_repos/seL4
+2025-11-06 19:11:11,068 [INFO] Found 739 valid files.
+2025-11-06 19:11:17,416 [INFO] Repo processed: cloned_repos/seL4 | Tokens: 1,440,972
+2025-11-06 19:11:17,419 [INFO] Processing repo: cloned_repos/ArduinoCore-samd
+2025-11-06 19:11:17,819 [INFO] Found 573 valid files.
+2025-11-06 19:11:33,405 [INFO] Repo processed: cloned_repos/ArduinoCore-samd | Tokens: 5,687,765
+2025-11-06 19:11:33,408 [INFO] Processing repo: cloned_repos/connectedhomeip
+2025-11-06 19:11:34,633 [INFO] Found 2774 valid files.
+2025-11-06 19:12:08,814 [INFO] Repo processed: cloned_repos/connectedhomeip | Tokens: 8,728,551
+2025-11-06 19:12:08,817 [INFO] Processing repo: cloned_repos/usbx
+2025-11-06 19:12:09,320 [INFO] Found 1559 valid files.
+2025-11-06 19:12:30,648 [INFO] Repo processed: cloned_repos/usbx | Tokens: 6,159,493
+2025-11-06 19:12:30,651 [INFO] Processing repo: cloned_repos/Arduino
+2025-11-06 19:12:31,106 [INFO] Found 530 valid files.
+2025-11-06 19:12:35,627 [INFO] Repo processed: cloned_repos/Arduino | Tokens: 1,307,641
+2025-11-06 19:12:35,629 [INFO] Processing repo: cloned_repos/mcuxsdk-manifests
+2025-11-06 19:12:35,820 [INFO] Found 33 valid files.
+2025-11-06 19:12:35,962 [INFO] Repo processed: cloned_repos/mcuxsdk-manifests | Tokens: 33,689
+2025-11-06 19:12:35,962 [INFO] Processing repo: cloned_repos/LiteOS
+2025-11-06 19:12:36,626 [INFO] Found 3933 valid files.
+2025-11-06 19:14:06,058 [INFO] Repo processed: cloned_repos/LiteOS | Tokens: 32,931,055
+2025-11-06 19:14:06,062 [INFO] All done.
+2025-11-06 19:46:47,060 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-06 19:46:50,802 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 1 repos...
+2025-11-06 19:46:50,811 [INFO] Processing repo: cloned_repos/STM32CubeF7
+2025-11-06 19:46:51,231 [INFO] Found 12513 valid files.
+2025-11-06 19:52:05,164 [INFO] Repo processed: cloned_repos/STM32CubeF7 | Tokens: 149,397,888
+2025-11-06 19:52:05,214 [INFO] All done.
+2025-11-06 20:02:12,071 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-06 20:02:15,282 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 10 repos...
+2025-11-06 20:02:15,291 [INFO] Processing repo: cloned_repos/ChibiOS
+2025-11-06 20:02:15,415 [INFO] Found 4222 valid files.
+2025-11-06 20:08:54,096 [INFO] Repo processed: cloned_repos/ChibiOS | Tokens: 151,738,356
+2025-11-06 20:08:54,099 [INFO] Processing repo: cloned_repos/cc32xx_open_sdk
+2025-11-06 20:08:54,219 [INFO] Found 2958 valid files.
+2025-11-06 20:09:58,029 [INFO] Repo processed: cloned_repos/cc32xx_open_sdk | Tokens: 27,499,389
+2025-11-06 20:09:58,032 [INFO] Processing repo: cloned_repos/STM32CubeL4
+2025-11-06 20:09:58,803 [INFO] Found 16837 valid files.
+2025-11-06 20:12:46,026 [INFO] Repo processed: cloned_repos/STM32CubeL4 | Tokens: 71,786,290
+2025-11-06 20:12:46,029 [INFO] Processing repo: cloned_repos/rtems
+2025-11-06 20:12:46,242 [INFO] Found 11184 valid files.
+2025-11-06 20:15:32,623 [INFO] Repo processed: cloned_repos/rtems | Tokens: 62,637,236
+2025-11-06 20:15:32,626 [INFO] Processing repo: cloned_repos/atomthreads
+2025-11-06 20:15:32,637 [INFO] Found 166 valid files.
+2025-11-06 20:15:33,881 [INFO] Repo processed: cloned_repos/atomthreads | Tokens: 322,181
+2025-11-06 20:15:33,881 [INFO] Processing repo: cloned_repos/amazon-freertos
+2025-11-06 20:15:34,045 [INFO] Found 7791 valid files.
+2025-11-06 20:18:10,986 [INFO] Repo processed: cloned_repos/amazon-freertos | Tokens: 55,507,680
+2025-11-06 20:18:10,990 [INFO] Processing repo: cloned_repos/platformio-core
+2025-11-06 20:18:11,003 [INFO] Found 301 valid files.
+2025-11-06 20:18:12,570 [INFO] Repo processed: cloned_repos/platformio-core | Tokens: 403,855
+2025-11-06 20:18:12,570 [INFO] Processing repo: cloned_repos/CMSIS_5
+2025-11-06 20:18:12,619 [INFO] Found 2462 valid files.
+2025-11-06 20:18:28,721 [INFO] Repo processed: cloned_repos/CMSIS_5 | Tokens: 4,894,482
+2025-11-06 20:18:28,724 [INFO] Processing repo: cloned_repos/CoOS
+2025-11-06 20:18:28,742 [INFO] Found 460 valid files.
+2025-11-06 20:18:40,098 [INFO] Repo processed: cloned_repos/CoOS | Tokens: 3,923,179
+2025-11-06 20:18:40,099 [INFO] Processing repo: cloned_repos/pico-sdk
+2025-11-06 20:18:40,125 [INFO] Found 863 valid files.
+2025-11-06 20:18:54,050 [INFO] Repo processed: cloned_repos/pico-sdk | Tokens: 5,451,648
+2025-11-06 20:18:54,053 [INFO] All done.
+2025-11-06 20:21:51,337 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-06 20:21:55,911 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 25 repos...
+2025-11-06 20:21:55,919 [INFO] Processing repo: cloned_repos/spsdk
+2025-11-06 20:21:56,030 [INFO] Found 1853 valid files.
+2025-11-06 20:22:53,304 [INFO] Repo processed: cloned_repos/spsdk | Tokens: 14,434,362
+2025-11-06 20:22:53,307 [INFO] Processing repo: cloned_repos/arduino-esp32
+2025-11-06 20:22:53,358 [INFO] Found 1527 valid files.
+2025-11-06 20:23:03,313 [INFO] Repo processed: cloned_repos/arduino-esp32 | Tokens: 3,392,240
+2025-11-06 20:23:03,314 [INFO] Processing repo: cloned_repos/sdk-ng
+2025-11-06 20:23:03,340 [INFO] Found 326 valid files.
+2025-11-06 20:26:00,137 [INFO] Repo processed: cloned_repos/sdk-ng | Tokens: 82,168,032
+2025-11-06 20:26:00,140 [INFO] Processing repo: cloned_repos/ecos
+2025-11-06 20:26:00,354 [INFO] Found 4687 valid files.
+2025-11-06 20:27:01,205 [INFO] Repo processed: cloned_repos/ecos | Tokens: 26,906,088
+2025-11-06 20:27:01,207 [INFO] Processing repo: cloned_repos/FreeRTOS
+2025-11-06 20:27:01,550 [INFO] Found 10433 valid files.
+2025-11-06 20:32:15,413 [INFO] Repo processed: cloned_repos/FreeRTOS | Tokens: 108,743,899
+2025-11-06 20:32:15,419 [INFO] Processing repo: cloned_repos/STM32CubeH7
+2025-11-06 20:32:18,697 [INFO] Found 21642 valid files.
+2025-11-06 20:37:27,186 [INFO] Repo processed: cloned_repos/STM32CubeH7 | Tokens: 145,525,916
+2025-11-06 20:37:27,190 [INFO] Processing repo: cloned_repos/csp
+2025-11-06 20:37:27,456 [INFO] Found 4617 valid files.
+2025-11-06 20:39:20,654 [INFO] Repo processed: cloned_repos/csp | Tokens: 50,271,135
+2025-11-06 20:39:20,657 [INFO] Processing repo: cloned_repos/STM32Cube_MCU_Overall_Offer
+2025-11-06 20:39:20,663 [INFO] Found 1 valid files.
+2025-11-06 20:39:20,734 [INFO] Repo processed: cloned_repos/STM32Cube_MCU_Overall_Offer | Tokens: 21,452
+2025-11-06 20:39:20,734 [INFO] Processing repo: cloned_repos/sdk-nrf
+2025-11-06 20:39:21,228 [INFO] Found 11995 valid files.
+2025-11-06 20:40:33,110 [INFO] Repo processed: cloned_repos/sdk-nrf | Tokens: 27,286,370
+2025-11-06 20:40:33,113 [INFO] Processing repo: cloned_repos/core
+2025-11-06 20:40:33,138 [INFO] Found 144 valid files.
+2025-11-06 20:40:38,185 [INFO] Repo processed: cloned_repos/core | Tokens: 2,563,652
+2025-11-06 20:40:38,187 [INFO] Processing repo: cloned_repos/threadx
+2025-11-06 20:40:38,441 [INFO] Found 3293 valid files.
+2025-11-06 20:41:18,723 [INFO] Repo processed: cloned_repos/threadx | Tokens: 15,610,432
+2025-11-06 20:41:18,726 [INFO] Processing repo: cloned_repos/STM32CubeWB
+2025-11-06 20:41:19,499 [INFO] Found 16813 valid files.
+2025-11-06 20:44:32,005 [INFO] Repo processed: cloned_repos/STM32CubeWB | Tokens: 65,798,896
+2025-11-06 20:44:32,008 [INFO] Processing repo: cloned_repos/contiki-ng
+2025-11-06 20:44:32,068 [INFO] Found 2022 valid files.
+2025-11-06 20:44:48,536 [INFO] Repo processed: cloned_repos/contiki-ng | Tokens: 6,719,469
+2025-11-06 20:44:48,538 [INFO] Processing repo: cloned_repos/FreeRTOS-Plus-TCP
+2025-11-06 20:44:48,563 [INFO] Found 758 valid files.
+2025-11-06 20:44:58,738 [INFO] Repo processed: cloned_repos/FreeRTOS-Plus-TCP | Tokens: 3,375,966
+2025-11-06 20:44:58,739 [INFO] Processing repo: cloned_repos/esp-iot-solution
+2025-11-06 20:44:58,848 [INFO] Found 3065 valid files.
+2025-11-06 20:45:38,374 [INFO] Repo processed: cloned_repos/esp-iot-solution | Tokens: 23,391,449
+2025-11-06 20:45:38,375 [INFO] Processing repo: cloned_repos/mtb-pdl-cat1
+2025-11-06 20:45:38,447 [INFO] Found 3289 valid files.
+2025-11-06 20:47:41,341 [INFO] Repo processed: cloned_repos/mtb-pdl-cat1 | Tokens: 48,990,382
+2025-11-06 20:47:41,344 [INFO] Processing repo: cloned_repos/STM32CubeWL
+2025-11-06 20:47:41,731 [INFO] Found 9906 valid files.
+2025-11-06 20:49:16,790 [INFO] Repo processed: cloned_repos/STM32CubeWL | Tokens: 39,570,500
+2025-11-06 20:49:16,792 [INFO] Processing repo: cloned_repos/STM32CubeL5
+2025-11-06 20:49:17,303 [INFO] Found 12135 valid files.
+2025-11-06 20:51:39,587 [INFO] Repo processed: cloned_repos/STM32CubeL5 | Tokens: 64,398,829
+2025-11-06 20:51:39,590 [INFO] Processing repo: cloned_repos/STM32CubeF4
+2025-11-06 20:51:43,930 [INFO] Found 19114 valid files.
+2025-11-06 20:58:50,291 [INFO] Repo processed: cloned_repos/STM32CubeF4 | Tokens: 196,508,565
+2025-11-06 20:58:50,314 [INFO] Processing repo: cloned_repos/RIOT
+2025-11-06 20:58:54,489 [INFO] Found 10494 valid files.
+2025-11-06 21:03:31,832 [INFO] Repo processed: cloned_repos/RIOT | Tokens: 106,367,001
+2025-11-06 21:03:31,836 [INFO] Processing repo: cloned_repos/esp-idf
+2025-11-06 21:03:36,643 [INFO] Found 14027 valid files.
+2025-11-06 21:06:39,894 [INFO] Repo processed: cloned_repos/esp-idf | Tokens: 70,994,160
+2025-11-06 21:06:39,898 [INFO] Processing repo: cloned_repos/fsp
+2025-11-06 21:06:40,879 [INFO] Found 3791 valid files.
+2025-11-06 21:09:38,200 [INFO] Repo processed: cloned_repos/fsp | Tokens: 55,868,470
+2025-11-06 21:09:38,201 [INFO] Processing repo: cloned_repos/STM32CubeG0
+2025-11-06 21:09:45,835 [INFO] Found 11603 valid files.
+2025-11-06 21:11:22,918 [INFO] Repo processed: cloned_repos/STM32CubeG0 | Tokens: 36,017,842
+2025-11-06 21:11:22,922 [INFO] Processing repo: cloned_repos/STM32CubeF0
+2025-11-06 21:11:27,296 [INFO] Found 8801 valid files.
+2025-11-06 21:12:52,007 [INFO] Repo processed: cloned_repos/STM32CubeF0 | Tokens: 34,927,202
+2025-11-06 21:12:52,010 [INFO] Processing repo: cloned_repos/jerryscript
+2025-11-06 21:12:52,666 [INFO] Found 1960 valid files.
+2025-11-06 21:13:07,497 [INFO] Repo processed: cloned_repos/jerryscript | Tokens: 6,255,260
+2025-11-06 21:13:07,498 [INFO] All done.
+2025-11-07 03:53:42,459 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-07 03:53:46,810 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 10 repos...
+2025-11-07 03:53:46,828 [INFO] Processing repo: cloned_repos/sdk-mcuboot
+2025-11-07 03:53:47,380 [INFO] Found 674 valid files.
+2025-11-07 03:53:53,816 [INFO] Repo processed: cloned_repos/sdk-mcuboot | Tokens: 2,721,863
+2025-11-07 03:53:53,818 [INFO] Processing repo: cloned_repos/uC-OS2
+2025-11-07 03:53:54,972 [INFO] Found 386 valid files.
+2025-11-07 03:53:59,936 [INFO] Repo processed: cloned_repos/uC-OS2 | Tokens: 1,212,854
+2025-11-07 03:53:59,939 [INFO] Processing repo: cloned_repos/sdk-zephyr
+2025-11-07 03:54:14,779 [INFO] Found 31351 valid files.
+2025-11-07 03:57:20,593 [INFO] Repo processed: cloned_repos/sdk-zephyr | Tokens: 52,818,738
+2025-11-07 03:57:20,595 [INFO] Processing repo: cloned_repos/tock
+2025-11-07 03:57:21,528 [INFO] Found 1898 valid files.
+2025-11-07 03:57:41,073 [INFO] Repo processed: cloned_repos/tock | Tokens: 4,676,567
+2025-11-07 03:57:41,076 [INFO] Processing repo: cloned_repos/filex
+2025-11-07 03:57:41,341 [INFO] Found 442 valid files.
+2025-11-07 03:57:49,767 [INFO] Repo processed: cloned_repos/filex | Tokens: 1,904,367
+2025-11-07 03:57:49,770 [INFO] Processing repo: cloned_repos/STM32CubeL0
+2025-11-07 03:57:55,531 [INFO] Found 9033 valid files.
+2025-11-07 03:59:26,456 [INFO] Repo processed: cloned_repos/STM32CubeL0 | Tokens: 31,239,215
+2025-11-07 03:59:26,459 [INFO] Processing repo: cloned_repos/STM32CubeG4
+2025-11-07 03:59:35,452 [INFO] Found 12145 valid files.
+2025-11-07 04:01:33,336 [INFO] Repo processed: cloned_repos/STM32CubeG4 | Tokens: 40,187,062
+2025-11-07 04:01:33,339 [INFO] Processing repo: cloned_repos/mbed-os
+2025-11-07 04:01:39,140 [INFO] Found 16905 valid files.
+2025-11-07 04:04:32,809 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-07 04:04:35,398 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 10 repos...
+2025-11-07 04:04:35,403 [INFO] Processing repo: cloned_repos/mbed-os
+2025-11-07 04:04:35,696 [INFO] Found 16905 valid files.
+2025-11-07 04:14:25,002 [INFO] Repo processed: cloned_repos/mbed-os | Tokens: 259,046,842
+2025-11-07 04:14:25,006 [INFO] Processing repo: cloned_repos/netxduo
+2025-11-07 04:14:26,159 [INFO] Found 3505 valid files.
+2025-11-07 04:16:09,720 [INFO] Repo processed: cloned_repos/mbed-os | Tokens: 259,046,842
+2025-11-07 04:16:09,723 [INFO] Processing repo: cloned_repos/netxduo
+2025-11-07 04:16:09,768 [INFO] Found 3505 valid files.
+2025-11-07 04:17:21,121 [INFO] Repo processed: cloned_repos/netxduo | Tokens: 91,805,946
+2025-11-07 04:17:21,124 [INFO] Processing repo: cloned_repos/sdk-nrfxlib
+2025-11-07 04:17:22,557 [INFO] Found 951 valid files.
+2025-11-07 04:17:34,881 [INFO] Repo processed: cloned_repos/sdk-nrfxlib | Tokens: 3,148,376
+2025-11-07 04:17:34,883 [INFO] All done.
+2025-11-07 04:18:48,589 [INFO] Repo processed: cloned_repos/netxduo | Tokens: 91,805,946
+2025-11-07 04:18:48,592 [INFO] Processing repo: cloned_repos/sdk-nrfxlib
+2025-11-07 04:18:48,622 [INFO] Found 951 valid files.
+2025-11-07 04:18:56,399 [INFO] Repo processed: cloned_repos/sdk-nrfxlib | Tokens: 3,148,376
+2025-11-07 04:18:56,401 [INFO] Processing repo: cloned_repos/gecko_sdk
+2025-11-07 04:19:07,048 [INFO] Found 41842 valid files.
+2025-11-07 04:35:57,900 [INFO] Repo processed: cloned_repos/gecko_sdk | Tokens: 290,169,677
+2025-11-07 04:35:57,904 [INFO] Processing repo: cloned_repos/nuttx
+2025-11-07 04:36:07,587 [WARNING] Skipping cloned_repos/nuttx/fs/zipfs/zlib: [Errno 2] No such file or directory: 'cloned_repos/nuttx/fs/zipfs/zlib'
+2025-11-07 04:36:07,618 [INFO] Found 19249 valid files.
+2025-11-07 04:40:28,669 [INFO] Repo processed: cloned_repos/nuttx | Tokens: 79,662,617
+2025-11-07 04:40:28,673 [INFO] Processing repo: cloned_repos/lvgl
+2025-11-07 04:40:29,506 [INFO] Found 1726 valid files.
+2025-11-07 04:42:01,126 [INFO] Repo processed: cloned_repos/lvgl | Tokens: 45,239,431
+2025-11-07 04:42:01,130 [INFO] Processing repo: cloned_repos/drone-core
+2025-11-07 04:42:01,476 [INFO] Found 97 valid files.
+2025-11-07 04:42:02,436 [INFO] Repo processed: cloned_repos/drone-core | Tokens: 194,019
+2025-11-07 04:42:02,439 [INFO] Processing repo: cloned_repos/ble_examples
+2025-11-07 04:42:02,642 [INFO] Found 4 valid files.
+2025-11-07 04:42:02,749 [INFO] Repo processed: cloned_repos/ble_examples | Tokens: 11,179
+2025-11-07 04:42:02,750 [INFO] Processing repo: cloned_repos/simplelink-lowpower-f2-sdk
+2025-11-07 04:42:07,268 [INFO] Found 10947 valid files.
+2025-11-07 04:46:03,939 [INFO] Repo processed: cloned_repos/simplelink-lowpower-f2-sdk | Tokens: 75,477,175
+2025-11-07 04:46:03,942 [INFO] Processing repo: cloned_repos/openocd
+2025-11-07 04:46:04,760 [INFO] Found 1836 valid files.
+2025-11-07 04:46:22,321 [INFO] Repo processed: cloned_repos/openocd | Tokens: 5,174,045
+2025-11-07 04:46:22,324 [INFO] All done.
+2025-11-07 04:47:47,027 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-07 04:47:49,805 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 5 repos...
+2025-11-07 04:47:49,811 [INFO] Processing repo: cloned_repos/FreeRTOS-Kernel
+2025-11-07 04:47:50,861 [INFO] Found 640 valid files.
+2025-11-07 04:48:08,450 [INFO] Repo processed: cloned_repos/FreeRTOS-Kernel | Tokens: 3,865,443
+2025-11-07 04:48:08,453 [INFO] Processing repo: cloned_repos/buildroot
+2025-11-07 04:48:09,819 [WARNING] Skipping cloned_repos/buildroot/system/skeleton/dev/fd: [Errno 2] No such file or directory: 'cloned_repos/buildroot/system/skeleton/dev/fd'
+2025-11-07 04:48:09,819 [WARNING] Skipping cloned_repos/buildroot/system/skeleton/dev/stderr: [Errno 2] No such file or directory: 'cloned_repos/buildroot/system/skeleton/dev/stderr'
+2025-11-07 04:48:09,820 [WARNING] Skipping cloned_repos/buildroot/system/skeleton/dev/stdout: [Errno 2] No such file or directory: 'cloned_repos/buildroot/system/skeleton/dev/stdout'
+2025-11-07 04:48:09,820 [WARNING] Skipping cloned_repos/buildroot/system/skeleton/dev/stdin: [Errno 2] No such file or directory: 'cloned_repos/buildroot/system/skeleton/dev/stdin'
+2025-11-07 04:48:09,823 [WARNING] Skipping cloned_repos/buildroot/system/skeleton/etc/resolv.conf: [Errno 2] No such file or directory: 'cloned_repos/buildroot/system/skeleton/etc/resolv.conf'
+2025-11-07 04:48:09,824 [WARNING] Skipping cloned_repos/buildroot/system/skeleton/etc/mtab: [Errno 2] No such file or directory: 'cloned_repos/buildroot/system/skeleton/etc/mtab'
+2025-11-07 04:48:13,214 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/dev/log: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/dev/log'
+2025-11-07 04:48:13,217 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/log: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/log'
+2025-11-07 04:48:13,217 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/tmp: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/tmp'
+2025-11-07 04:48:13,217 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/lock: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/lock'
+2025-11-07 04:48:13,218 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/cache: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/cache'
+2025-11-07 04:48:13,218 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/spool: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/spool'
+2025-11-07 04:48:13,218 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/run: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/run'
+2025-11-07 04:48:13,219 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/lib/misc: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-sysv/skeleton/var/lib/misc'
+2025-11-07 04:48:13,449 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/dev/log: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/dev/log'
+2025-11-07 04:48:13,450 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/log: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/log'
+2025-11-07 04:48:13,450 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/tmp: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/tmp'
+2025-11-07 04:48:13,451 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/lock: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/lock'
+2025-11-07 04:48:13,451 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/cache: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/cache'
+2025-11-07 04:48:13,451 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/spool: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/spool'
+2025-11-07 04:48:13,451 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/run: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/run'
+2025-11-07 04:48:13,452 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/lib/misc: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/var/lib/misc'
+2025-11-07 04:48:13,455 [WARNING] Skipping cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/etc/runlevels/default/sysv-rcs: [Errno 2] No such file or directory: 'cloned_repos/buildroot/package/skeleton-init-openrc/skeleton/etc/runlevels/default/sysv-rcs'
+2025-11-07 04:48:15,903 [INFO] Found 3062 valid files.
+2025-11-07 04:48:28,051 [INFO] Repo processed: cloned_repos/buildroot | Tokens: 2,924,298
+2025-11-07 04:48:28,054 [INFO] Processing repo: cloned_repos/TencentOS-tiny
+2025-11-07 04:48:28,316 [INFO] Found 1 valid files.
+2025-11-07 04:48:28,356 [INFO] Repo processed: cloned_repos/TencentOS-tiny | Tokens: 370
+2025-11-07 04:48:28,357 [INFO] Processing repo: cloned_repos/zephyr
+2025-11-07 04:48:46,035 [INFO] Found 32636 valid files.
+2025-11-07 04:52:34,056 [INFO] Repo processed: cloned_repos/zephyr | Tokens: 54,924,556
+2025-11-07 04:52:34,061 [INFO] Processing repo: cloned_repos/linux
+2025-11-07 04:52:48,586 [INFO] Found 75141 valid files.
+2025-11-07 05:26:35,516 [INFO] Repo processed: cloned_repos/linux | Tokens: 585,219,446
+2025-11-07 05:26:35,533 [INFO] All done.
+2025-11-07 06:05:59,142 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-07 06:06:03,750 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 5 repos...
+2025-11-07 06:06:03,763 [INFO] Processing repo: cloned_repos/pico-examples
+2025-11-07 06:06:04,297 [INFO] Found 533 valid files.
+2025-11-07 06:06:12,080 [INFO] Repo processed: cloned_repos/pico-examples | Tokens: 3,129,467
+2025-11-07 06:06:12,083 [INFO] Processing repo: cloned_repos/openwrt
+2025-11-07 06:06:15,517 [INFO] Found 5749 valid files.
+2025-11-07 06:07:25,472 [INFO] Repo processed: cloned_repos/openwrt | Tokens: 18,941,399
+2025-11-07 06:07:25,476 [INFO] Processing repo: cloned_repos/esp-idf-ci-action
+2025-11-07 06:07:25,668 [INFO] Found 2 valid files.
+2025-11-07 06:07:25,721 [INFO] Repo processed: cloned_repos/esp-idf-ci-action | Tokens: 1,261
+2025-11-07 06:07:25,722 [INFO] Processing repo: cloned_repos/mcux-sdk
+2025-11-07 06:07:31,250 [INFO] Found 14938 valid files.
+2025-11-07 06:36:39,017 [INFO] Repo processed: cloned_repos/mcux-sdk | Tokens: 513,405,420
+2025-11-07 06:36:39,056 [INFO] Processing repo: cloned_repos/STM32CubeF1
+2025-11-07 06:36:41,722 [INFO] Found 6867 valid files.
+2025-11-07 06:38:22,192 [INFO] Repo processed: cloned_repos/STM32CubeF1 | Tokens: 34,900,745
+2025-11-07 06:38:22,195 [INFO] All done.
+2025-11-07 06:41:13,389 [INFO] Starting token counting for repos in: cloned_repos
+2025-11-07 06:41:18,834 [INFO] Tokenizer google/gemma-3-27b-it loaded. Processing 3 repos...
+2025-11-07 06:41:18,846 [INFO] Processing repo: cloned_repos/sdk-nrf-bm
+2025-11-07 06:41:19,338 [INFO] Found 488 valid files.
+2025-11-07 06:41:24,284 [INFO] Repo processed: cloned_repos/sdk-nrf-bm | Tokens: 1,565,863
+2025-11-07 06:41:24,288 [INFO] Processing repo: cloned_repos/simba
+2025-11-07 06:41:25,688 [INFO] Found 1766 valid files.
+2025-11-07 06:41:45,200 [INFO] Repo processed: cloned_repos/simba | Tokens: 4,592,482
+2025-11-07 06:41:45,204 [INFO] Processing repo: cloned_repos/AliOS-Things
+2025-11-07 06:41:50,642 [INFO] Found 20929 valid files.
+2025-11-07 06:49:16,772 [INFO] Repo processed: cloned_repos/AliOS-Things | Tokens: 163,797,708
+2025-11-07 06:49:16,777 [INFO] All done.
